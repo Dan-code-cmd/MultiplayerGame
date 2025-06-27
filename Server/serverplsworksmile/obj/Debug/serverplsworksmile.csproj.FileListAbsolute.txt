@@ -1,0 +1,21 @@
+C:\Users\jarvisd\Documents\GitHub\6018CEM-Unity-Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.exe.config
+C:\Users\jarvisd\Documents\GitHub\6018CEM-Unity-Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.exe
+C:\Users\jarvisd\Documents\GitHub\6018CEM-Unity-Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.pdb
+C:\Users\jarvisd\Documents\GitHub\6018CEM-Unity-Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.csproj.AssemblyReference.cache
+C:\Users\jarvisd\Documents\GitHub\6018CEM-Unity-Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.csproj.CoreCompileInputs.cache
+C:\Users\jarvisd\Documents\GitHub\6018CEM-Unity-Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.exe
+C:\Users\jarvisd\Documents\GitHub\6018CEM-Unity-Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.pdb
+C:\Users\jarvisd\Documents\GitHub\Server\Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.exe.config
+C:\Users\jarvisd\Documents\GitHub\Server\Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.exe
+C:\Users\jarvisd\Documents\GitHub\Server\Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.pdb
+C:\Users\jarvisd\Documents\GitHub\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.csproj.AssemblyReference.cache
+C:\Users\jarvisd\Documents\GitHub\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.csproj.CoreCompileInputs.cache
+C:\Users\jarvisd\Documents\GitHub\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.exe
+C:\Users\jarvisd\Documents\GitHub\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.pdb
+F:\Year 3 Sem 2\Commercial Game Dev\Server\Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.exe.config
+F:\Year 3 Sem 2\Commercial Game Dev\Server\Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.exe
+F:\Year 3 Sem 2\Commercial Game Dev\Server\Server-Project\serverplsworksmile\serverplsworksmile\bin\Debug\serverplsworksmile.pdb
+F:\Year 3 Sem 2\Commercial Game Dev\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.csproj.AssemblyReference.cache
+F:\Year 3 Sem 2\Commercial Game Dev\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.csproj.CoreCompileInputs.cache
+F:\Year 3 Sem 2\Commercial Game Dev\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.exe
+F:\Year 3 Sem 2\Commercial Game Dev\Server\Server-Project\serverplsworksmile\serverplsworksmile\obj\Debug\serverplsworksmile.pdb
