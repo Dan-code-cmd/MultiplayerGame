@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\source\\client\\networkmanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\intermediate\\build\\win64\\x64\\clienteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\client\\definitions.client.h",
+            "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\source\\client\\networkmanager.h",
+            "f:\\unreal\\ue_5.3\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4endpoint.h",
+            "f:\\unreal\\ue_5.3\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4address.h",
+            "f:\\unreal\\ue_5.3\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4subnetmask.h",
+            "f:\\unreal\\ue_5.3\\engine\\source\\runtime\\sockets\\public\\socketsubsystem.h",
+            "f:\\unreal\\ue_5.3\\engine\\source\\runtime\\sockets\\public\\addressinfotypes.h",
+            "f:\\unreal\\ue_5.3\\engine\\source\\runtime\\sockets\\public\\sockets.h",
+            "f:\\unreal\\ue_5.3\\engine\\source\\runtime\\networking\\public\\common\\udpsocketbuilder.h",
+            "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\intermediate\\build\\win64\\unrealeditor\\inc\\client\\uht\\networkmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

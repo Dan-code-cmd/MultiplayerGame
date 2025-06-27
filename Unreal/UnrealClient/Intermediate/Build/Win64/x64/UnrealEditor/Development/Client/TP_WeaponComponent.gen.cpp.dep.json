@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\intermediate\\build\\win64\\unrealeditor\\inc\\client\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\intermediate\\build\\win64\\x64\\clienteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\client\\definitions.client.h",
+            "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\source\\client\\tp_weaponcomponent.h",
+            "f:\\year 3 sem 2\\commercial game dev\\unreal client\\unreal-client\\client\\intermediate\\build\\win64\\unrealeditor\\inc\\client\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

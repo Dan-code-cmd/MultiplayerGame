@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Client.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\clientEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\Client.init.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientCharacter.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientGameMode.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientPlayerController.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientProjectile.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\NetManager.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\NetworkManager.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\TP_PickUpComponent.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\TP_WeaponComponent.gen.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\client.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientCharacter.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientGameMode.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientPlayerController.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\clientProjectile.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\NetManager.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\NetworkManager.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\TP_PickUpComponent.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\TP_WeaponComponent.cpp.obj"
+"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\Default.rc2.res"
+/OUT:"F:\Year 3 Sem 2\Commercial Game Dev\Unreal Client\Unreal-Client\Client\Intermediate\Build\Win64\x64\UnrealEditor\Development\Client\UnrealEditor-Client.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Year 3 Sem 2\\Commercial Game Dev\\Unreal Client\\Unreal-Client\\Client\\Source\\Client\\client.Build.cs",
+		"F:\\Year 3 Sem 2\\Commercial Game Dev\\Unreal Client\\Unreal-Client\\Client\\Source\\client.Target.cs",
+		"F:\\Year 3 Sem 2\\Commercial Game Dev\\Unreal Client\\Unreal-Client\\Client\\Source\\clientEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

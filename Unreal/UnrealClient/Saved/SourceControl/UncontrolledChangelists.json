@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jarvisd/Documents/GitHub/Unreal-Server-Project/Unreal-Client/Client/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/jarvisd/Documents/GitHub/Unreal-Server-Project/Unreal-Client/Client/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KZ/ZOU7FK1ME2RRZDGIVV2IIN.uasset"
+			]
+		}
+	]
+}

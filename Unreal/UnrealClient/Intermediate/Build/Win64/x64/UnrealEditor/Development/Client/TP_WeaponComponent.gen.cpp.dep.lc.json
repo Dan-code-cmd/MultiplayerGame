@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jarvisd\\documents\\github\\unreal-server-project\\unreal-client\\client\\intermediate\\build\\win64\\unrealeditor\\inc\\client\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jarvisd\\documents\\github\\unreal-server-project\\unreal-client\\client\\intermediate\\build\\win64\\x64\\clienteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jarvisd\\documents\\github\\unreal-server-project\\unreal-client\\client\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\client\\definitions.client.h",
+            "c:\\users\\jarvisd\\documents\\github\\unreal-server-project\\unreal-client\\client\\source\\client\\tp_weaponcomponent.h",
+            "c:\\users\\jarvisd\\documents\\github\\unreal-server-project\\unreal-client\\client\\intermediate\\build\\win64\\unrealeditor\\inc\\client\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
